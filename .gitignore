@@ -1,0 +1,6 @@
+*~
+*.a
+*.o
+/smart
+/smart.backup.*
+/smart.e.backup.*
