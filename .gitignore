@@ -4,3 +4,10 @@
 /smart
 /smart.backup.*
 /smart.e.backup.*
+
+expat_config.h
+Makefile
+config.log
+config.status
+expat.pc
+libtool
